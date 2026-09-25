@@ -16,7 +16,7 @@ source venv/bin/activate
 # On Windows:
 venv\Scripts\activate
 
-# 3. Install the RunPod SDK
+# 3. Install the Runpod SDK
 pip install runpod
 
 # 4. Run your script locally, the script will automatically read test_input.json as input, passing it to the handler function as an event
